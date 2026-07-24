@@ -1,19 +1,5 @@
 ## freqtrade-strs
 
-## Don't try to create a complex strategy. Simple is often the most effective.
-
-## This strategy is a very simple strategy, you can expand it freely, I believe you can do better.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## How do i hyper my str(current use is E0V1E.py).
-
-SortinoHyperOptLossDaily for buy signal
-
-SortinoHyperOptLoss for sell signal
-
-## current dry run in this folder:binance/dry_run/buy1_and_buynew/E0V1E.py
-
-## Note：which loss function to hyper this strategy is up to you. It's not set in stone
-
 For help:
 
 https://www.freqtrade.io/
@@ -28,15 +14,10 @@ https://discord.com/invite/f7pdhdsr4d
 
 Chinese friends can join this channel to discuss together
 
-## Spot Copy(现货跟单交易)
+## Copy Trade
+https://www.binance.com/zh-CN/copy-trading/lead-details/5149954343666138112?timeRange=7D
 
-en:https://www.binance.com/en/copy-trading/lead-details/4405826208723354624
-
-cn:https://www.binance.com/zh-CN/copy-trading/lead-details/4405826208723354624
-
-Spot Copy search:E0V1E(现货跟单搜索:E0V1E)
-
-Start Time: 2025/02/26
+Start Time: 2026/07/25
 
 ## Donations
 
